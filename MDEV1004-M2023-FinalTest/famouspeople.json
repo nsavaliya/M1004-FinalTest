@@ -1,0 +1,282 @@
+[
+  {
+    "famouspeopleID": 1,
+    "name": "John Smith",
+    "occupation": "Author",
+    "nationality": "American",
+    "birthDate": "1985-05-10",
+    "birthPlace": "New York, USA",
+    "bio": "John Smith is a renowned author known for his captivating novels...",
+    "achievements": [
+      "Bestselling author of 'Mystery at Midnight'",
+      "Recipient of the National Book Award for Fiction"
+    ],
+    "imageURL": "https://example.com/john_smith.jpg"
+  },
+  {
+    "famouspeopleID": 2,
+    "name": "Emily Johnson",
+    "occupation": "Painter",
+    "nationality": "British",
+    "birthDate": "1990-02-18",
+    "birthPlace": "London, UK",
+    "bio": "Emily Johnson is a talented painter who...",
+    "achievements": [
+      "Exhibited in the prestigious National Gallery",
+      "Winner of the Turner Art Prize"
+    ],
+    "imageURL": "https://example.com/emily_johnson.jpg"
+  },
+  {
+    "famouspeopleID": 3,
+    "name": "Carlos Ramirez",
+    "occupation": "Musician",
+    "nationality": "Mexican",
+    "birthDate": "1988-09-22",
+    "birthPlace": "Mexico City, Mexico",
+    "bio": "Carlos Ramirez is a gifted musician known for...",
+    "achievements": [
+      "Grammy Award winner for Best Latin Album",
+      "Global tour with sold-out concerts"
+    ],
+    "imageURL": "https://example.com/carlos_ramirez.jpg"
+  },
+  {
+    "famouspeopleID": 4,
+    "name": "Sophie Martin",
+    "occupation": "Scientist",
+    "nationality": "French",
+    "birthDate": "1976-11-05",
+    "birthPlace": "Paris, France",
+    "bio": "Sophie Martin is a brilliant scientist who...",
+    "achievements": [
+      "Published over 50 research papers",
+      "Recipient of the Nobel Prize in Physics"
+    ],
+    "imageURL": "https://example.com/sophie_martin.jpg"
+  },
+  {
+    "famouspeopleID": 5,
+    "name": "Ahmed Khan",
+    "occupation": "Entrepreneur",
+    "nationality": "Egyptian",
+    "birthDate": "1982-07-15",
+    "birthPlace": "Cairo, Egypt",
+    "bio": "Ahmed Khan is a visionary entrepreneur...",
+    "achievements": [
+      "Founded a successful tech startup valued at $1 billion",
+      "Featured in Forbes' list of Top 30 Under 30"
+    ],
+    "imageURL": "https://example.com/ahmed_khan.jpg"
+  },
+  {
+    "famouspeopleID": 6,
+    "name": "Isabella Rossi",
+    "occupation": "Fashion Designer",
+    "nationality": "Italian",
+    "birthDate": "1987-03-28",
+    "birthPlace": "Milan, Italy",
+    "bio": "Isabella Rossi is an influential fashion designer...",
+    "achievements": [
+      "Launched her own high-end fashion label",
+      "Dressed celebrities for major red carpet events"
+    ],
+    "imageURL": "https://example.com/isabella_rossi.jpg"
+  },
+  {
+    "famouspeopleID": 7,
+    "name": "Ravi Patel",
+    "occupation": "Chef",
+    "nationality": "Indian",
+    "birthDate": "1974-12-03",
+    "birthPlace": "Mumbai, India",
+    "bio": "Ravi Patel is a celebrated chef who...",
+    "achievements": [
+      "Opened a Michelin-starred restaurant",
+      "Hosted a popular cooking show on television"
+    ],
+    "imageURL": "https://example.com/ravi_patel.jpg"
+  },
+  {
+    "famouspeopleID": 8,
+    "name": "Maria Hernandez",
+    "occupation": "Film Director",
+    "nationality": "Spanish",
+    "birthDate": "1980-08-20",
+    "birthPlace": "Madrid, Spain",
+    "bio": "Maria Hernandez is a talented film director...",
+    "achievements": [
+      "Directed critically acclaimed films screened at Cannes",
+      "Winner of the Academy Award for Best Director"
+    ],
+    "imageURL": "https://example.com/maria_hernandez.jpg"
+  },
+  {
+    "famouspeopleID": 9,
+    "name": "Kenji Nakamura",
+    "occupation": "Architect",
+    "nationality": "Japanese",
+    "birthDate": "1978-06-12",
+    "birthPlace": "Tokyo, Japan",
+    "bio": "Kenji Nakamura is a visionary architect known for...",
+    "achievements": [
+      "Designed iconic skyscrapers in major cities",
+      "Recipient of the Pritzker Architecture Prize"
+    ],
+    "imageURL": "https://example.com/kenji_nakamura.jpg"
+  },
+  {
+    "famouspeopleID": 10,
+    "name": "Anna Petrov",
+    "occupation": "Astronaut",
+    "nationality": "Russian",
+    "birthDate": "1989-01-30",
+    "birthPlace": "Moscow, Russia",
+    "bio": "Anna Petrov is a dedicated astronaut who...",
+    "achievements": [
+      "Participated in multiple successful space missions",
+      "Contributed to scientific research aboard the ISS"
+    ],
+    "imageURL": "https://example.com/anna_petrov.jpg"
+  },
+  {
+    "famouspeopleID": 11,
+    "name": "Luis Fernandez",
+    "occupation": "Dancer",
+    "nationality": "Spanish",
+    "birthDate": "1992-06-08",
+    "birthPlace": "Barcelona, Spain",
+    "bio": "Luis Fernandez is a passionate dancer known for...",
+    "achievements": [
+      "Performed lead roles in acclaimed ballet productions",
+      "Winner of the International Dance Competition"
+    ],
+    "imageURL": "https://example.com/luis_fernandez.jpg"
+  },
+  {
+    "famouspeopleID": 12,
+    "name": "Elena Petrova",
+    "occupation": "Neuroscientist",
+    "nationality": "Russian",
+    "birthDate": "1983-04-12",
+    "birthPlace": "Saint Petersburg, Russia",
+    "bio": "Elena Petrova is a pioneering neuroscientist who...",
+    "achievements": [
+      "Discovered groundbreaking insights into brain plasticity",
+      "Recipient of the Brain Research Foundation Award"
+    ],
+    "imageURL": "https://example.com/elena_petrova.jpg"
+  },
+  {
+    "famouspeopleID": 13,
+    "name": "David Anderson",
+    "occupation": "Actor",
+    "nationality": "American",
+    "birthDate": "1970-09-05",
+    "birthPlace": "Los Angeles, USA",
+    "bio": "David Anderson is a versatile actor known for...",
+    "achievements": [
+      "Starred in critically acclaimed films and TV series",
+      "Winner of the Screen Actors Guild Award"
+    ],
+    "imageURL": "https://example.com/david_anderson.jpg"
+  },
+  {
+    "famouspeopleID": 14,
+    "name": "Marie Leclerc",
+    "occupation": "Biologist",
+    "nationality": "French",
+    "birthDate": "1979-12-18",
+    "birthPlace": "Lyon, France",
+    "bio": "Marie Leclerc is a dedicated biologist who...",
+    "achievements": [
+      "Discovered a new species in the Amazon rainforest",
+      "Published influential research on biodiversity"
+    ],
+    "imageURL": "https://example.com/marie_leclerc.jpg"
+  },
+  {
+    "famouspeopleID": 15,
+    "name": "Chen Wei",
+    "occupation": "Photographer",
+    "nationality": "Chinese",
+    "birthDate": "1986-07-28",
+    "birthPlace": "Beijing, China",
+    "bio": "Chen Wei is an acclaimed photographer known for...",
+    "achievements": [
+      "Exhibited solo shows in major art galleries",
+      "Recipient of the World Photography Award"
+    ],
+    "imageURL": "https://example.com/chen_wei.jpg"
+  },
+  {
+    "famouspeopleID": 16,
+    "name": "Aisha Khan",
+    "occupation": "Human Rights Activist",
+    "nationality": "Pakistani",
+    "birthDate": "1981-03-15",
+    "birthPlace": "Lahore, Pakistan",
+    "bio": "Aisha Khan is a fearless human rights activist...",
+    "achievements": [
+      "Led successful campaigns for women's rights",
+      "Recipient of the Nobel Peace Prize nomination"
+    ],
+    "imageURL": "https://example.com/aisha_khan.jpg"
+  },
+  {
+    "famouspeopleID": 17,
+    "name": "Hiroshi Tanaka",
+    "occupation": "Tech Innovator",
+    "nationality": "Japanese",
+    "birthDate": "1975-11-25",
+    "birthPlace": "Osaka, Japan",
+    "bio": "Hiroshi Tanaka is a visionary tech innovator who...",
+    "achievements": [
+      "Invented groundbreaking advancements in AI technology",
+      "Recognized as a Top Innovator by MIT Technology Review"
+    ],
+    "imageURL": "https://example.com/hiroshi_tanaka.jpg"
+  },
+  {
+    "famouspeopleID": 18,
+    "name": "Sofia Rodriguez",
+    "occupation": "Environmental Activist",
+    "nationality": "Mexican",
+    "birthDate": "1984-08-10",
+    "birthPlace": "Mexico City, Mexico",
+    "bio": "Sofia Rodriguez is a passionate environmental activist...",
+    "achievements": [
+      "Founded a prominent conservation organization",
+      "Recipient of the Goldman Environmental Prize"
+    ],
+    "imageURL": "https://example.com/sofia_rodriguez.jpg"
+  },
+  {
+    "famouspeopleID": 19,
+    "name": "Andrei Ivanov",
+    "occupation": "Economist",
+    "nationality": "Russian",
+    "birthDate": "1973-01-12",
+    "birthPlace": "Moscow, Russia",
+    "bio": "Andrei Ivanov is a distinguished economist who...",
+    "achievements": [
+      "Authored influential books on global financial trends",
+      "Advised international organizations on economic policies"
+    ],
+    "imageURL": "https://example.com/andrei_ivanov.jpg"
+  },
+  {
+    "famouspeopleID": 20,
+    "name": "Lena Schneider",
+    "occupation": "Tech Entrepreneur",
+    "nationality": "German",
+    "birthDate": "1988-04-02",
+    "birthPlace": "Berlin, Germany",
+    "bio": "Lena Schneider is a trailblazing tech entrepreneur...",
+    "achievements": [
+      "Founded a successful startup specializing in renewable energy tech",
+      "Featured on Forbes' list of Women in Tech"
+    ],
+    "imageURL": "https://example.com/lena_schneider.jpg"
+  }
+]
